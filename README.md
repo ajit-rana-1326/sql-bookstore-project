@@ -163,30 +163,9 @@ Successfully designed an Online Bookstore relational database, imported data fro
 
 ---
 
-## 📷 Project Screenshots
-
-### Database
-(Add Database Screenshot Here)
-
-### Books Table
-(Add Books Table Screenshot Here)
-
-### Customers Table
-(Add Customers Table Screenshot Here)
-
-### Orders Table
-(Add Orders Table Screenshot Here)
-
-### SQL Query Example
-(Add SQL Query Screenshot Here)
-
-### Query Output
-(Add Query Output Screenshot Here)
-
----
 
 ## 👨‍💻 Author
 
 **Ajit Rana**
 
-Aspiring Data Analyst | Advanced Excel | SQL | Power BI | Python
+Aspiring Data Analyst | Advanced Excel | SQL | Power BI | Python |Open to Work
